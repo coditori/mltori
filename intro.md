@@ -23,8 +23,8 @@ Pattern recognition is the process of recognizing patterns by using a Machine Le
 
 <div style="text-align:center"><img src="Images/Supervised_Unsupervised.jpg" /></div>
 
-[1] : https://www.collinsdictionary.com/dictionary/english/pattern)<br/>
-[2] :http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
+[1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
+[2] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
 [3] : https://www.youtube.com/watch?v=hBgkQOa_c1A<br/>
 [4] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
 
