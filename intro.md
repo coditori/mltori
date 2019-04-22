@@ -6,7 +6,7 @@ Example: All three attacks followed the same pattern.
 
 <br/>
 <p align="center"><img src="Images/pattern_bbc.png" /></p>
-<p align="center">A simple pattern</p><sup>[2]</sup>
+<p align="center">A simple pattern<sup>[2]</sup></p>
 <br/>
 
 #### What is Algorithm
@@ -21,7 +21,7 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 <br/>
 <p align="center"><img src="Images/WhatIsNextPattern.jpg" /></p>
 <p align="center">A simple form of Machine Learning</p>
-<br/>
+
 #### Types of Machine Learning Algorithms:
 
 + Supervised Learning
@@ -29,7 +29,7 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 + Regression
 <br/>
 <p align="center"><img src="Images/Supervised_Unsupervised.jpg" /></p>
-<p align="center">Supervised Vs Unsupervised</p><sup>[5]</sup>
+<p align="center">Supervised Vs Unsupervised<sup>[5]</sup></p>
 <br/>
 [1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
 [3] : https://www.techopedia.com/definition/3739/algorithm
