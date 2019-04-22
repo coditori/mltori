@@ -4,7 +4,7 @@
 A pattern is the repeated or regular way in which something happens or is done.<sup>[1]</sup><br/>
 Example: All three attacks followed the same pattern.
 
-<div style="text-align:center"><img src="Images/pattern_bbc.png" /></div>
+<div style="text-align:center"><center><img src="Images/pattern_bbc.png" /></center></div>
 
 
 #### Machine Learning and Pattern Recognition 
