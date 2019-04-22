@@ -1,3 +1,5 @@
+## Machine Learning Step by Step:
+
 #### Data Definition:
 Everything our senses perceive is data, though its storage in our cranial wet stuff leaves something to be desired. Writing it down is a bit more reliable, especially when we write it down on a computer. When those notes are well-organized, we call them data... though I’ve seen some awfully messy electronic scribbles get the same name.<sup>[1]</sup>
 
