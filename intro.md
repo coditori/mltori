@@ -19,7 +19,7 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
   Pattern recognition is the process of recognizing patterns by using a Machine Learning algorithm. Pattern recognition can be defined as the classification of data based on knowledge already gained or on statistical information extracted from patterns and/or their representation.<sup>[4]</sup>
 
 <br/>
-<p align="center"><img src="Images/WhatIsNextPattern.jpg" /></p>
+<p align="center"><img src="Images/what comes next patterns practice.jpg" /></p>
 <p align="center">A simple form of Machine Learning</p>
 
 #### Types of Machine Learning Algorithms:
