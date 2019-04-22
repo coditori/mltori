@@ -33,12 +33,13 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 <p align="center"><img src="Images/Supervised_Unsupervised.jpg" /></p>
 <p align="center">Supervised Vs Unsupervised<sup>[7]</sup></p>
 <br/>
-[1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
-[3] : https://www.techopedia.com/definition/3739/algorithm<br/>
-[2] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
-[4] : https://www.youtube.com/watch?v=hBgkQOa_c1A<br/>
-[5] : https://educationalresource.org/content/what-comes-next-pattern<br/>
-[6] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
+[1] : https://towardsdatascience.com/what-is-data-8f94ae3a56b4<br/>
+[2] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
+[3] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
+[4] : https://www.techopedia.com/definition/3739/algorithm<br/>
+[5] : https://www.youtube.com/watch?v=hBgkQOa_c1A<br/>
+[6] : https://educationalresource.org/content/what-comes-next-pattern<br/>
+[7] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
 
 
 
