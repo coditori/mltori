@@ -20,7 +20,7 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 
 <br/>
 <p align="center"><img src="Images/what comes next patterns practice.jpg" /></p>
-<p align="center">A simple form of Machine Learning</p>
+<p align="center">A simple form of Machine Learning<sup>[5]</sup></p>
 
 #### Types of Machine Learning Algorithms:
 
@@ -29,13 +29,14 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 + Regression
 <br/>
 <p align="center"><img src="Images/Supervised_Unsupervised.jpg" /></p>
-<p align="center">Supervised Vs Unsupervised<sup>[5]</sup></p>
+<p align="center">Supervised Vs Unsupervised<sup>[6]</sup></p>
 <br/>
 [1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
 [3] : https://www.techopedia.com/definition/3739/algorithm<br/>
 [2] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
 [4] : https://www.youtube.com/watch?v=hBgkQOa_c1A<br/>
-[5] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
+[5] : https://educationalresource.org/content/what-comes-next-pattern<br/>
+[6] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
 
 
 
