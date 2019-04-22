@@ -4,7 +4,7 @@
 A pattern is the repeated or regular way in which something happens or is done.<sup>[1]</sup><br/>
 Example: All three attacks followed the same pattern.
 
-<div style="text-align:center"><center><img src="Images/pattern_bbc.png" /></center></div>
+<p align="center"><img src="Images/pattern_bbc.png" /></p>
 
 
 #### Machine Learning and Pattern Recognition 
@@ -13,7 +13,7 @@ Machine Learning is a field that uses algorithms to learn from data and make pre
 Pattern recognition is the process of recognizing patterns by using a Machine Learning algorithm. Pattern recognition can be defined as the classification of data based on knowledge already gained or on statistical information extracted from patterns and/or their representation.<sup>[3]</sup>
 
 
-<div style="text-align:center"><img src="Images/WhatIsNextPattern.jpg" /></div>
+<p align="center"><img src="Images/WhatIsNextPattern.jpg" /></p>
 
 #### Types of Machine Learning Algorithms:
 
@@ -21,7 +21,7 @@ Pattern recognition is the process of recognizing patterns by using a Machine Le
 + Unsupervised Learning
 + Regression
 
-<div style="text-align:center"><img src="Images/Supervised_Unsupervised.jpg" /></div>
+<p align="center"><img src="Images/Supervised_Unsupervised.jpg" /></p>
 
 [1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
 [2] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
