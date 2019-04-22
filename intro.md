@@ -32,7 +32,7 @@ An algorithm is also used to manipulate data in various ways, such as inserting 
 <p align="center">Supervised Vs Unsupervised<sup>[5]</sup></p>
 <br/>
 [1] : https://www.collinsdictionary.com/dictionary/english/pattern<br/>
-[3] : https://www.techopedia.com/definition/3739/algorithm
+[3] : https://www.techopedia.com/definition/3739/algorithm<br/>
 [2] : http://snb.guru/gcse/3_1_1_Representing_algorithms.php<br/>
 [4] : https://www.youtube.com/watch?v=hBgkQOa_c1A<br/>
 [5] : https://blog.algorithmia.com/introduction-to-unsupervised-learning/
